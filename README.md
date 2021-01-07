@@ -1,1 +1,1 @@
-# cybersecurity-curriculum
+# Cybersecurity Curriculum
